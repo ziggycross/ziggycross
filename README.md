@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ziggycross
+- 👀 I’m interested in Visual Arts, Music, and Linguistics
+- 🌱 I’m currently learning Data Science and Computational Linguistics at UBC
+- 💞️ I’m looking to collaborate on projects using music data
+- 📫 ziggycross@me.com
