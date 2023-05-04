@@ -1,5 +1,5 @@
-👋 Hi, I’m @ziggycross  
+👋 Hi, I’m [@ziggycross](https://github.com/ziggycross)  
 👀 I’m interested in computer graphics, music, and linguistics  
 📚 I’m currently a graduate student in Computational Linguistics at UBC  
-📫 ziggycross@me.com  
-📃 ziggycross.dev  
+📫 [ziggycross@me.com](mailto:ziggycross@me.com)  
+📃 [ziggycross.dev](https://ziggycross.dev)  
