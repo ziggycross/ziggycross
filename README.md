@@ -2,9 +2,9 @@
 
 👋 Hi, I’m [@ziggycross](https://github.com/ziggycross)  
 😊 I’m interested in computer graphics, music, and linguistics  
-💻 I'm currently working as a Data Engineer on assignment at Meta  
-📚 I recently graduated from UBC with a Masters degree in Computational Linguistics  
-🧠 I'm interested in pursuing a PhD in Computational Neuroscience and Neurolinguistics  
+💻 I'm currently working as a Software Engineer on assignment at Meta  
+📚 I studied Computational Linguistics at UBC and learnt skills in NLP, ML, and ASR  
+🧠 I'm interested in learning more about Computational Neuroscience and Neurolinguistics  
 📫 You can email me at [ziggycross@me.com](mailto:ziggycross@me.com)  
 📃 You can see my dev work at [ziggycross.dev](https://ziggycross.dev)  
 📸 You can see my creative work at [ziggycross.com](https://ziggycross.com)  
